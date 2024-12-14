@@ -27,8 +27,8 @@ The report features cards showing Total Units Sold, Total Gross Sales, and Total
 
 The data is visualized using different charts: Bar Chart, Scatter Plot, Line Graph, and Heat Map.
 
-###The Bar Chart has Country on the X-axis and Sales on the Y-axis.
-###The Scatter Plot has Gross Sales on the X-axis and Discounts on the Y-axis.
-###The Line Graph has Sales on the X-axis and Profit on the Y-axis.
-###The Heat Map displays Sales by Product on the X-axis and Discount on the Y-axis.
+1.The Bar Chart has Country on the X-axis and Sales on the Y-axis.
+2.The Scatter Plot has Gross Sales on the X-axis and Discounts on the Y-axis.
+3.The Line Graph has Sales on the X-axis and Profit on the Y-axis.
+4.The Heat Map displays Sales by Product on the X-axis and Discount on the Y-axis.
 
