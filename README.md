@@ -41,6 +41,6 @@ The goal of this dashboard is to provide a clear and actionable visualization of
    - **Insights**: Identify which products benefit most from specific discount ranges.
    - **Interactivity**: Focus on individual products or discount bands.
 
-### Clone the Repository
+## Clone the Repository
 //github.com/Dihnu/Financial-Performance-Dashboard.git
 cd Financial-Performance-Dashboard
