@@ -19,16 +19,28 @@ The goal of this dashboard is to provide a clear and actionable visualization of
 4. **Sales by Product and Discount Band**
    - Explore sales distribution across different products and discount bands to uncover high-performing segments and evaluate pricing strategies.
 
-## section in the report
+## Dashboard Features
 
-###The report has multiple sections where you can manage the data, including the ability to slice the data by segments, country, and year to display specific information.
+### 1. Sales and Profit by Country
+   - **Visualization**: A choropleth map or bar chart.
+   - **Insights**: Identify top-performing and underperforming countries.
+   - **Interactivity**: Filter by regions, categories, or time periods.
 
-The report features cards showing Total Units Sold, Total Gross Sales, and Total Profit.
+### 2. Sales and Profit Trend Over Time
+   - **Visualization**: Line chart.
+   - **Insights**: Highlight growth periods, dips, or consistent trends.
+   - **Interactivity**: Drill down by months, quarters, or years.
 
-The data is visualized using different charts: Bar Chart, Scatter Plot, Line Graph, and Heat Map.
+### 3. Gross Sales vs Discounts
+   - **Visualization**: Scatter plot or bar chart.
+   - **Insights**: Pinpoint where high discounts lead to higher or lower sales.
+   - **Interactivity**: Toggle between different product categories or timeframes.
 
-1.The Bar Chart has Country on the X-axis and Sales on the Y-axis.
-2.The Scatter Plot has Gross Sales on the X-axis and Discounts on the Y-axis.
-3.The Line Graph has Sales on the X-axis and Profit on the Y-axis.
-4.The Heat Map displays Sales by Product on the X-axis and Discount on the Y-axis.
+### 4. Sales by Product and Discount Band
+   - **Visualization**: Heatmap or stacked bar chart.
+   - **Insights**: Identify which products benefit most from specific discount ranges.
+   - **Interactivity**: Focus on individual products or discount bands.
 
+### Clone the Repository
+//github.com/Dihnu/Financial-Performance-Dashboard.git
+cd Financial-Performance-Dashboard
