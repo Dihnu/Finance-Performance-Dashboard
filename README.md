@@ -50,5 +50,7 @@ The goal of this dashboard is to provide a clear and actionable visualization of
 
 https://public.tableau.com/views/financial_17339413381870/financialperformancedashboard
 
+![financial performance dashboard](https://github.com/user-attachments/assets/859dc996-44b8-42d5-9f60-f15a51f51b66)
+
 
 
