@@ -47,5 +47,4 @@ The goal of this dashboard is to provide a clear and actionable visualization of
    - Discount details.
 
 2. **Tools**
-   - Data visualization: Tableau, Power BI, or Python libraries (e.g., Matplotlib, Seaborn, Plotly).
-   - Data processing: Pandas, SQL, or ETL tools for data preparation.
+   - Data visualization: Tableau
