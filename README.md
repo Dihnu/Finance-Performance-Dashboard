@@ -4,16 +4,48 @@ Hello Everyone,
 I created this Finance Dashboard in Tableau using the Finance Excel Workbook provided by Unified Mentor.
 
 
-Problem Statement
+## Problem Statement
+The goal of this dashboard is to provide a clear and actionable visualization of key financial performance metrics. The dashboard will help stakeholders analyze trends, identify opportunities, and optimize strategies for improved financial outcomes. The primary focus areas are:
 
-Organizations often face challenges in tracking and analyzing financial performance across multiple dimensions. Key metrics such as sales, profits, discounts, and trends over time must be visualized effectively to enable data-driven decision-making. Without such insights, it becomes difficult to identify profitable regions, optimize product performance, and manage discounts effectively.
+1. **Sales and Profit by Country**
+   - Visualize total sales and profits across different countries to identify regional performance disparities.
 
-The objective of this dashboard is to provide an interactive and visually engaging solution to track:
+2. **Sales and Profit Trend Over Time**
+   - Examine how sales and profits evolve over time to detect patterns, seasonality, or anomalies.
 
-Sales and Profit by Country
+3. **Gross Sales vs Discounts**
+   - Understand the relationship between gross sales and applied discounts to evaluate the effectiveness of discount strategies.
 
-Sales and Profit Trends Over Time
+4. **Sales by Product and Discount Band**
+   - Explore sales distribution across different products and discount bands to uncover high-performing segments and evaluate pricing strategies.
 
-Gross Sales vs Discounts
+## Dashboard Features
 
-Sales by Product and Discount Band
+### 1. Sales and Profit by Country
+   - **Visualization**: A choropleth map or bar chart.
+   - **Insights**: Identify top-performing and underperforming countries.
+   - **Interactivity**: Filter by regions, categories, or time periods.
+
+### 2. Sales and Profit Trend Over Time
+   - **Visualization**: Line chart.
+   - **Insights**: Highlight growth periods, dips, or consistent trends.
+   - **Interactivity**: Drill down by months, quarters, or years.
+### 3. Gross Sales vs Discounts
+   - **Visualization**: Scatter plot or bar chart.
+   - **Insights**: Pinpoint where high discounts lead to higher or lower sales.
+   - **Interactivity**: Toggle between different product categories or timeframes.
+
+### 4. Sales by Product and Discount Band
+   - **Visualization**: Heatmap or stacked bar chart.
+   - **Insights**: Identify which products benefit most from specific discount ranges.
+   - **Interactivity**: Focus on individual products or discount bands.
+
+## Implementation
+1. **Data Sources**
+   - Sales transaction data.
+   - Profit margins by product and region.
+   - Discount details.
+
+2. **Tools**
+   - Data visualization: Tableau, Power BI, or Python libraries (e.g., Matplotlib, Seaborn, Plotly).
+   - Data processing: Pandas, SQL, or ETL tools for data preparation.
