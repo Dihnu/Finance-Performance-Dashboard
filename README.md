@@ -19,32 +19,16 @@ The goal of this dashboard is to provide a clear and actionable visualization of
 4. **Sales by Product and Discount Band**
    - Explore sales distribution across different products and discount bands to uncover high-performing segments and evaluate pricing strategies.
 
-## Dashboard Features
+## section in the report
 
-### 1. Sales and Profit by Country
-   - **Visualization**: A choropleth map or bar chart.
-   - **Insights**: Identify top-performing and underperforming countries.
-   - **Interactivity**: Filter by regions, categories, or time periods.
+###The report has multiple sections where you can manage the data, including the ability to slice the data by segments, country, and year to display specific information.
 
-### 2. Sales and Profit Trend Over Time
-   - **Visualization**: Line chart.
-   - **Insights**: Highlight growth periods, dips, or consistent trends.
-   - **Interactivity**: Drill down by months, quarters, or years.
-### 3. Gross Sales vs Discounts
-   - **Visualization**: Scatter plot or bar chart.
-   - **Insights**: Pinpoint where high discounts lead to higher or lower sales.
-   - **Interactivity**: Toggle between different product categories or timeframes.
+The report features cards showing Total Units Sold, Total Gross Sales, and Total Profit.
 
-### 4. Sales by Product and Discount Band
-   - **Visualization**: Heatmap or stacked bar chart.
-   - **Insights**: Identify which products benefit most from specific discount ranges.
-   - **Interactivity**: Focus on individual products or discount bands.
+The data is visualized using different charts: Bar Chart, Scatter Plot, Line Graph, and Heat Map.
 
-## Implementation
-1. **Data Sources**
-   - Sales transaction data.
-   - Profit margins by product and region.
-   - Discount details.
+The Bar Chart has Country on the X-axis and Sales on the Y-axis.
+The Scatter Plot has Gross Sales on the X-axis and Discounts on the Y-axis.
+The Line Graph has Sales on the X-axis and Profit on the Y-axis.
+The Heat Map displays Sales by Product on the X-axis and Discount on the Y-axis.
 
-2. **Tools**
-   - Data visualization: Tableau
