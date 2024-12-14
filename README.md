@@ -42,5 +42,6 @@ The goal of this dashboard is to provide a clear and actionable visualization of
    - **Interactivity**: Focus on individual products or discount bands.
 
 ## Clone the Repository
-//github.com/Dihnu/Financial-Performance-Dashboard.git
+- Clone this repository to your local machine by using the following command :
+https://github.com/Dihnu/Financial-Performance-Dashboard.git
 cd Financial-Performance-Dashboard
