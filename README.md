@@ -48,5 +48,5 @@ The goal of this dashboard is to provide a clear and actionable visualization of
 
 ## link to the Dataset
 
-https://public.tableau.com/views/financial_17339413381870/financialperformancedashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:
+https://public.tableau.com/views/financial_17339413381870/financialperformancedashboard?:
 
